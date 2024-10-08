@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"caller-trackr","appId":"1:53863093237:android:3908467cfc8fa84372c6bc","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"caller-trackr","configurations":{"android":"1:53863093237:android:3908467cfc8fa84372c6bc","ios":"1:53863093237:ios:962c8bfcf0ca28c772c6bc"}}}}}}
